@@ -67,3 +67,5 @@ Add error handling for invalid input
 
 👨‍💻 Author
 Pranay Jadhao
+
+<img width="654" height="720" alt="image" src="https://github.com/user-attachments/assets/fdfc0acb-ab35-4f9c-b581-efef02d9f116" />
