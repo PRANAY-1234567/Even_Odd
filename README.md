@@ -66,5 +66,4 @@ Check multiple numbers in a loop
 Add error handling for invalid input
 
 👨‍💻 Author
-
 Pranay Jadhao
