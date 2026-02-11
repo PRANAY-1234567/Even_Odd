@@ -1,7 +1,6 @@
 🔢 Even or Odd Number Checker (JavaScript)
 
 📌 Description
-
 This program checks whether a given number is Even or Odd using JavaScript.
 
 An even number is divisible by 2, while an odd number is not.
