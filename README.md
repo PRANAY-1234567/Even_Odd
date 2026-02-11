@@ -58,11 +58,8 @@ Basic number logic problems
 Learning functions and conditions
 
 🚀 Possible Improvements
-
 Take user input from prompt
-
 Check multiple numbers in a loop
-
 Add error handling for invalid input
 
 👨‍💻 Author
