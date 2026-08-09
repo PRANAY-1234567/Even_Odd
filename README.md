@@ -1,7 +1,6 @@
 # 🔢 Even or Odd Number Checker in JavaScript
 
 A simple JavaScript program that determines whether a given number is **Even** or **Odd** using the modulus (`%`) operator. The project demonstrates the use of functions, conditional statements, and basic arithmetic operations in JavaScript.
-
 This project is ideal for beginners learning JavaScript fundamentals.
 
 ---
