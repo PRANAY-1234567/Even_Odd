@@ -155,7 +155,6 @@ After completing this project, you will understand:
 **Pranay Jadhao**
 
 Electronics & Telecommunication Engineer
-
 Aspiring Software Engineer | JavaScript | Python | Java | SQL | Data Analytics
 
 ---
