@@ -4,5 +4,4 @@ function checkEvenOdd(num) {
 }
 
 console.log(checkEvenOdd(3));
-
 console.log(checkEvenOdd(4));
